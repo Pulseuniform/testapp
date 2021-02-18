@@ -1,0 +1,10 @@
+.DS_Store
+src/apn
+node_modules
+node_modules/
+*/node_modules/*
+package-lock.json
+*/.history/*
+.history
+.history/*
+Sources/logs/logDB.json
